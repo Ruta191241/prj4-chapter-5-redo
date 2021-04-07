@@ -1,0 +1,147 @@
+*{
+margin: 0;
+padding: 0;
+border: 0;
+}
+
+body {
+    font-family: Georgia;
+    Text-align: center;
+    background-image: url('../images/38582.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+h1 {
+    color: white;
+    font-size: 100pt;
+    margin-top: 150px;
+    font-family: 'Syncopate', sans-serif;;
+ 
+   
+}
+
+h2 {
+    color: #f7e6ff;
+    font-size: 36pt;
+    line-height: 3mm;
+    padding-bottom: 100px;
+}
+ header {
+    position:relative;
+     background-color:#f7e6ff;
+     line-height: 1mm;
+     Text-align: center;
+     padding: 10px;
+ 
+     
+ } 
+
+ footer {
+    background-color: #f7e6ff ;
+    clear: both;
+    position: relative;
+    height: 110px;
+    margin-top: 600px;
+   
+  }
+  
+ 
+
+h5 {
+   
+    font-size: 25pt;
+    color:  #cc0099;
+    line-height: 1mm;
+    padding-top: 40px;
+} 
+
+li {
+    text-align: center;
+    display: inline-block;
+    background-color:  #e6fff5;
+    border: 5px solid #cc0099; 
+    padding: 10px 65px;
+    margin-right: 50px;
+    margin-left: 50px;
+   
+
+}
+ul {
+    text-align: center;
+}
+a {
+    color:  #cc0099;
+    font-size: 15pt;
+    text-decoration: none;
+}
+
+ .container {
+    width: 600px;
+    height: 350px;
+    border: 15px solid #cc0099;
+    background-color: #e6fff5;
+    padding: 50px;
+    font-size: 16pt;
+    color:  #cc0099;
+    padding:30px;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    margin-left: 450px;
+    margin-bottom: 100px;
+   
+}
+
+.container a {
+    text-align: center;
+    display: inline-block;
+    background-color:  #e6fff5;
+    border: 5px solid #cc0099; 
+    color:  #cc0099;
+    font-size: 15pt;
+    text-decoration: none;
+    padding:10px 45px;
+
+}
+.container2 {
+    width: 400px;
+    height: 70px;
+    border: 15px solid #cc0099;
+    background-color: #e6fff5;
+    
+    font-size: 16pt;
+    color:  #cc0099;
+    padding:30px;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    margin-left: 550px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.container2 a {
+    text-align: center;
+    display: inline-block;
+    background-color:  #e6fff5;
+    color:  #cc00bb;
+    font-size: 12pt;
+    text-decoration: none;
+    padding:10px 45px;
+    margin-top: 30px;
+
+}
+nav a{
+
+    color:black;
+    font-size: 20pt;
+}
+
+nav {
+
+    position:relative;
+    background-color: #f7e6ff;
+}
